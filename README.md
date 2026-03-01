@@ -2,4 +2,4 @@
 <br>
 This is first mini-Calculator proj with basic mathematical operations
 <br>
-Author-Meera 
+Author-Meera H S
